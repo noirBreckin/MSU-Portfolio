@@ -1,9 +1,9 @@
-##  Assignments Folder
+##  Programs Folder
 
 |   #   | Folder Link | Assignment Description | Assignment Number |
 | :---: | ----------- | ---------------------- | ---------------- |
-|   1   | [A01](https://github.com/noirBreckin/CMPS-4883-101/blob/main/Assignments/A01)               |   Establishing Comms |   Assignment 1      |
-|   2   | [A02](https://github.com/noirBreckin/CMPS-4883-101/blob/main/Assignments/A02)               |   Code Repository | Assignment 2     |
-|   3   | [A03](Insert Link Here)               |  Register + Hashmat     |   Assignment 3      |
-|   4   | [A04](Insert Link Here)               |  Easy Breezy   |   Assignment 4   |
-
+|   1   | [P01](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P01)               |   ASCII Art |   Program 1      |
+|   2   | [P02](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P02)               |   Volume Program | Program 2     |
+|   3   | [P03](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P03)               |   Output Math     |   Program 3      |
+|   4   | [P04](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P04)               |  Salary Loop   |   Program 4   |
+|   5   | [P05](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P05)               |  BMI Caluclator   |   Program 5   |
