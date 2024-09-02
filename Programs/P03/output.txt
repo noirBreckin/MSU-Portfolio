@@ -1,0 +1,13 @@
+CONSOLE:
+Please enter the first number.
+10
+Please enter the second number.
+5
+Thank you for entering the numbers :) 
+ 
+OUTPUT FILE:
+15
+5
+50
+2
+0
