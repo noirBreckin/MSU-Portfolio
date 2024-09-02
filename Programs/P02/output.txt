@@ -1,0 +1,17 @@
+Please enter the radius of the sphere
+12
+Please enter the radius of the cone
+4
+Please enter the height of the cone
+7
+Please enter the radius of the cylinder
+4
+Please enter the height of the cylinder
+7
+Thank you for entering the information :)
+Breckin Hume
+Volume Program/Program 2
+The volume of a sphere with a radius of 12 is 5425.92
+The volume of a cone with a radius of 4 and a height of 7 is 351.68
+The volume of a cylinder with a radius of 4 and a height of 7 is 351.68
+ 
