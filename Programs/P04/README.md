@@ -1,0 +1,1 @@
+For this program, I was tasked to use a while loop to increase the number of a salary in accordanced to yearly raise values given within the prompt. Then calculate the raised salary over the course of several loops until the salary is greater than or equal to a value.
