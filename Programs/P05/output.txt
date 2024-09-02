@@ -1,0 +1,8 @@
+Do you use the customary or metric units of measurement? Type 1 if you use customary. Type 2 if you use metric.
+1
+Please enter your weight in pounds.
+185
+Please enter your height in inches.
+74
+You are normal. Good job, no dietary recommendations are necessary.
+ 
