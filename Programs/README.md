@@ -10,3 +10,4 @@
 |   6   | [P06](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P06)               |  Functions Intro   | Program 6    |
 |   7   | [P07](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P07)               |  Reading/Categorizing   | Program 7    |
 |   8   | [P08](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P08)               |  Switch Case Bank   | Program 8    |
+|   9   | [P09](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P09)               |  Giant Array Bots   | Program 9    |
