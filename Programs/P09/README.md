@@ -1,0 +1,1 @@
+My memory is a little fuzzy on this assignment. If I remember correctly the task was to read in a giant input file consisting of RGB values, reorganize it and then export it back into another file. For this I used giant arrays of structs in order to reorganize the inputs before pushing them to the output file.
