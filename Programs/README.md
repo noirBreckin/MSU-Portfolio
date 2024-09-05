@@ -13,3 +13,5 @@
 |   9   | [P09](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P09)               |  Giant Array Bots   | Program 9    |
 |   10  | [P10](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P10)               |  Hotdog Shuffle   | Program 10    |
 |   11  | [P11](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P11)               |  Recursed Pals   | Program 11    |
+|   12  | [P12](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P12)               |  Linked Lists   | Program 12    |
+|   13  | [P13](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P13)               |  Generational Ops   | Program 13    |
