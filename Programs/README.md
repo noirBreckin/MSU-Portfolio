@@ -7,3 +7,4 @@
 |   3   | [P03](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P03)               |   Output Math     |   Program 3      |
 |   4   | [P04](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P04)               |  Salary Loop   |   Program 4   |
 |   5   | [P05](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P05)               |  BMI Caluclator   |   Program 5   |
+|   6   | [P06](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P06)               |  Functions Intro   | Program 6    |
