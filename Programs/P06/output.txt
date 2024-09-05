@@ -1,0 +1,18 @@
+How many times does the heading need to be printed?
+1
+Ayo dis the heading, we out here cloud mains
+Sugar rush is gonna be tough but fun
+At least we get to practice with Braden beforehand
+What is your favorite number?
+5
+5 Squared is 25
+5 Cubed is 125
+5 Cubed using a predefined function is 125
+Enter two different numbers
+6
+2
+The smallest of 6 and 2 is 2
+Enter two more numbers
+9
+4
+The largest of 9 and 4 is 9
