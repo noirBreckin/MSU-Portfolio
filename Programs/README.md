@@ -17,3 +17,4 @@
 |   13  | [P13](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P13)               |  Generational Ops   | Program 13    |
 |   14  | [P14](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P14)               |  Intro To Java Arrays   | Program 14    |
 |   15  | [P15](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P15)               |  Java Basics/Intro   | Program 15    |
+|   16  | [P16](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P16)               |  Texas Lotto   | Program 16    |
