@@ -19,3 +19,4 @@
 |   15  | [P15](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P15)               |  Java Basics/Intro   | Program 15    |
 |   16  | [P16](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P16)               |  Texas Lotto   | Program 16    |
 |   17  | [P17](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P17)               |  Java Objects and Classes   | Program 17    |
+|   18  | [P18](https://github.com/noirBreckin/MSU-Portfolio/tree/main/Programs/P18)               |  Python Basics/Intro   | Program 18    |
