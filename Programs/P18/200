@@ -1,0 +1,38 @@
+class Solution {
+public:
+    int numIslands(vector<vector<char>>& grid) {
+        if (grid.empty()) return 0;
+
+        int numRows = grid.size();
+        int numCols = grid[0].size();
+        int islands = 0;
+
+        for (int r = 0; r < numRows; r++) {
+            for (int c = 0; c < numCols; c++) {
+                if (grid[r][c] == '1') {
+                    islands++;
+                    // Start DFS to mark all land connected to this island
+                    dfs(grid, r, c);
+                }
+            }
+        }
+        return islands;
+    }
+
+private:
+    void dfs(vector<vector<char>>& grid, int r, int c) {
+        // Check bounds and whether it's water or already visited
+        if (r < 0 || r >= grid.size() || c < 0 || c >= grid[0].size() || grid[r][c] == '0') {
+            return;
+        }
+
+        // Mark the land as visited
+        grid[r][c] = '0';
+
+        // Explore all four directions
+        dfs(grid, r + 1, c); // down
+        dfs(grid, r - 1, c); // up
+        dfs(grid, r, c + 1); // right
+        dfs(grid, r, c - 1); // left
+    }
+};
